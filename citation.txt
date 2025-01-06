@@ -1,8 +1,6 @@
 @inproceedings{REPO308,
     author = "Li, Yuting and Chen, Yingyi and Yu, Xuanlong and Chen, Dexiong and Shen, Xi",
     booktitle = "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
-    doi = "10.1109/CVPR52733.2024.01657",
-    keywords = "Surveys;Uncertainty;Computer network reliability;Noise;Estimation;Computer architecture;Predictive models",
     number = "",
     pages = "17500-17510",
     title = "{SURE: SUrvey REcipes for Building Reliable and Robust Deep Networks}",
